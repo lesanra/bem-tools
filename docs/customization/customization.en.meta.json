@@ -5,7 +5,7 @@
     "summary": "Description of the build customization",
     "thumbnail": "",
     "author": "Vladimir Alaev",
-    "tags": ["bem-tools"],
+    "tags": ["tools","bem-tools"],
     "category": ["tools"],
     "translator": "Vladimir Varankin",
     "url": "/docs/customization/",
