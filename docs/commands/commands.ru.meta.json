@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "Описание основных команд bem-tools",
     "thumbnail": "",
-    "author": "Елена Джетпыспаева",
+    "author": ["jetpyspayeva-yelena"],
     "tags": ["tools","bem-tools"],
-    "category": ["tools"],
-    "translator": "",
+    "categories": ["tools"],
+    "translator": [""],
     "url": "/docs/commands/",
     "type": "docs",
     "slug": ""

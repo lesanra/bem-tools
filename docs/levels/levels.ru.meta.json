@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "Описание уровеня переопределения .bem/level.js",
     "thumbnail": "",
-    "author": "Владимир Алаев",
+    "author": ["alaev-vladimir"],
     "tags": ["bem-tools","tools"],
-    "category": ["tools"],
-    "translator": "",
+    "categories": ["tools"],
+    "translator": [""],
     "url": "/docs/levels/",
     "type": "docs",
     "slug": ""

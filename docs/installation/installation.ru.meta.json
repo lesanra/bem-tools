@@ -4,10 +4,10 @@
     "editDate": "02-08-2013",
     "summary": "Инструкция по установке bem-tools",
     "thumbnail": "",
-    "author": "Владимир Алаев",
+    "author": ["alaev-vladimir"],
     "tags": ["tools","bem-tools"],
-    "category": ["tools"],
-    "translator": "",
+    "categories": ["tools"],
+    "translator": [""],
     "url": "/docs/installation/",
     "type": "docs",
     "slug": ""

@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "Description of the build customization",
     "thumbnail": "",
-    "author": "Vladimir Alaev",
+    "author": ["alaev-vladimir"],
     "tags": ["tools","bem-tools"],
-    "category": ["tools"],
-    "translator": "Vladimir Varankin",
+    "categories": ["tools"],
+    "translator": ["varankin-vladimir"],
     "url": "/docs/customization/",
     "type": "docs",
     "slug": ""

@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "Информация о запуске автотестов",
     "thumbnail": "",
-    "author": "Владимир Алаев",
+    "author": ["alaev-vladimir"],
     "tags": ["tools","bem-tools"],
-    "category": ["tools"],
-    "translator": "",
+    "categories": ["tools"],
+    "translator": [""],
     "url": "/docs/contribute/",
     "type": "docs",
     "slug": ""

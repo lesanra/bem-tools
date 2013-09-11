@@ -4,10 +4,10 @@
     "editDate": "21-08-2013",
     "summary": "Способы создания модуля технологии",
     "thumbnail": "",
-    "author": "Владимир Алаев",
+    "author": ["alaev-vladimir"],
     "tags": ["bem-tools","tools"],
-    "category": ["tools"],
-    "translator": "",
+    "categories": ["tools"],
+    "translator": [""],
     "url": "/docs/tech-modules/",
     "type": "docs",
     "slug": ""

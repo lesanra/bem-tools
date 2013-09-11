@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "Описание кастомизации сборки",
     "thumbnail": "",
-    "author": "Владимир Алаев",
+    "author": ["alaev-vladimir"],
     "tags": ["tools","bem-tools"],
-    "category": ["tools"],
-    "translator": "",
+    "categories": ["tools"],
+    "translator": [""],
     "url": "/docs/customization/",
     "type": "docs",
     "slug": ""

@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "The main bem-tools commands",
     "thumbnail": "",
-    "author": "Yelena Jetpyspayeva",
+    "author": ["jetpyspayeva-yelena"],
     "tags": ["tools","bem-tools"],
-    "category": ["tools"],
-    "translator": "Yelena Jetpyspayeva",
+    "categories": ["tools"],
+    "translator": [""],
     "url": "/docs/commands/",
     "type": "docs",
     "slug": ""

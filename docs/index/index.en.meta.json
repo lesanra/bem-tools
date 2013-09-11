@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "Short  description of BEM tools",
     "thumbnail": "",
-    "author": "Vitaly Harisov",
+    "author": ["harisov-vitaly"],
     "tags": ["tools","bem-tools"],
-    "category": ["tools"],
-    "translator": "Vitaly Harisov",
+    "categories": ["tools"],
+    "translator": [""],
     "url": "/docs/index/",
     "type": "docs",
     "slug": ""
