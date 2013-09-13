@@ -4,11 +4,11 @@
     "editDate": "",
     "summary": "Information about autotests execution",
     "thumbnail": "",
-    "author": ["alaev-vladimir"],
+    "authors": ["alaev-vladimir"],
     "tags": ["tools","bem-tools"],
     "categories": ["tools"],
-    "translator": [""],
+    "translators": [""],
     "url": "/docs/contribute/",
-    "type": "docs",
+    "type": "tools",
     "slug": ""
 }

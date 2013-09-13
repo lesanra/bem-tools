@@ -4,11 +4,11 @@
     "editDate": "23-12-2012",
     "summary": "Several ways to create a tech module",
     "thumbnail": "",
-    "author": ["alaev-vladimir"],
+    "authors": ["alaev-vladimir"],
     "tags": ["bem-tools","tools"],
     "categories": ["tools"],
-    "translator": [""],
+    "translators": [""],
     "url": "/docs/tech-modules/",
-    "type": "docs",
+    "type": "tools",
     "slug": ""
 } 

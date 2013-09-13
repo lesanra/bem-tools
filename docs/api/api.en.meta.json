@@ -4,11 +4,11 @@
     "editDate": "",
     "summary": "The document explains how use bem-tools from API.",
     "thumbnail": "",
-    "author": ["alaev-vladimir"],
+    "authors": ["alaev-vladimir"],
     "tags": ["tools","bem-tools", "API"],
     "categories": ["tools"],
-    "translator": [""],
+    "translators": [""],
     "url": "/docs/api/",
-    "type": "docs",
+    "type": "tools",
     "slug": ""
 }

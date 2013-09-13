@@ -4,11 +4,11 @@
     "editDate": "02-07-2013",
     "summary": "bem-tools installation manual",
     "thumbnail": "",
-    "author": ["alaev-vladimir"],
+    "authors": ["alaev-vladimir"],
     "tags": ["tools","bem-tools"],
     "categories": ["tools"],
-    "translator": [""],
+    "translators": [""],
     "url": "/docs/installation/",
-    "type": "docs",
+    "type": "tools",
     "slug": ""
 } 
