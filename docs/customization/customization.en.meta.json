@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["alaev-vladimir"],
     "tags": ["tools","bem-tools"],
-    "categories": ["tools"],
+    "categories": [{"name": "BEM tools", "url": "bem-tools"}],
     "translators": ["varankin-vladimir"],
     "url": "/docs/customization/",
     "type": "tools",
