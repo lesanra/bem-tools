@@ -10,5 +10,6 @@
     "translators": [""],
     "url": "/docs/index/",
     "type": "tools",
-    "slug": ""
+    "slug": "",
+    "root": "true"
 } 
