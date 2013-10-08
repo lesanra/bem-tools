@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["alaev-vladimir"],
     "tags": ["tools","bem-tools"],
-    "categories": [{"name": "BEM tools", "url": "bem-tools"}],
+    "categories": [{"name": "BEM/bem tools", "url": "bem/bem-tools"}],
     "translators": [""],
     "url": "/docs/installation/",
     "type": "tools",
