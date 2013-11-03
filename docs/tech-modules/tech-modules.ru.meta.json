@@ -1,15 +1,16 @@
 {
     "title": "Модули технологий",
-    "longTitle": "Модули технологий bem tools",
+    "longTitle": "Модули технологий bem-tools",
     "createDate": "03-10-2012",
-    "editDate": "21-08-2013",
-    "summary": "Способы создания модуля технологии",
+    "editDate": "30-11-2013",
+    "summary": "Способы создания модуля технологии.",
     "thumbnail": "",
     "authors": ["alaev-vladimir"],
     "tags": ["bem-tools","tools"],
-    "categories": [{"name": "BEM/bem tools", "url": "bem/bem-tools"}],
+    "categories": [{"name": "BEM/bem-tools", "url": "bem/bem-tools"}],
     "translators": [""],
     "url": "/docs/tech-modules/",
     "type": "tools",
-    "slug": ""
+    "slug": "",
+    "order": "60"
 } 

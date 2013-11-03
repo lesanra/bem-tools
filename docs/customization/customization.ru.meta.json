@@ -1,15 +1,16 @@
 {
     "title": "Настройка",
-    "longTitle": "Настройка bem tools",
+    "longTitle": "Настройка bem-tools",
     "createDate": "03-10-2012",
     "editDate": "",
-    "summary": "Описание кастомизации сборки",
+    "summary": "Описание кастомизации сборки.",
     "thumbnail": "",
     "authors": ["alaev-vladimir"],
     "tags": ["tools","bem-tools"],
-    "categories": [{"name": "BEM/bem tools", "url": "bem/bem-tools"}],
+    "categories": [{"name": "BEM/bem-tools", "url": "bem/bem-tools"}],
     "translators": [""],
     "url": "/docs/customization/",
     "type": "tools",
-    "slug": ""
+    "slug": "",
+    "order": "50"
 } 

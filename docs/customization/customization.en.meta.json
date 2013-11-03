@@ -1,15 +1,16 @@
 {
     "title": "Сustomization",
-    "longTitle": "bem tools Сustomization",
+    "longTitle": "bem-tools Сustomization",
     "createDate": "03-10-2012",
     "editDate": "",
-    "summary": "Description of the build customization",
+    "summary": "Description of the build customization.",
     "thumbnail": "",
     "authors": ["alaev-vladimir"],
     "tags": ["tools","bem-tools"],
-    "categories": [{"name": "BEM/bem tools", "url": "bem/bem-tools"}],
+    "categories": [{"name": "BEM/bem-tools", "url": "bem/bem-tools"}],
     "translators": ["varankin-vladimir"],
     "url": "/docs/customization/",
     "type": "tools",
-    "slug": ""
+    "slug": "",
+    "order": "50"
 } 
